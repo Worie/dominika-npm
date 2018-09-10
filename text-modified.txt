@@ -1,0 +1,3 @@
+Node&will&continue&executing&any&javascript&code&it&encounters&while&reading&the&file.&Once&all&javascript&is&done&being&executed&and&the&file&is&ready,&it&will&run&the&anonymous&function&and&print&the&file&contents.
+
+You&can&do&the&same&task&synchronously:
